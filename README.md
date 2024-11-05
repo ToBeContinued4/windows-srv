@@ -135,4 +135,23 @@
 
 ## ---------- Web ---------- #
 
+- Agregar roles
+
+Aquí habría que agregar ``IIS``
+
+<img src="https://ee2cc1f8.rocketcdn.me/wp-content/uploads/2020/04/iis-10-new-website-01.png" alt="Web">
+<br>
+<img src="https://ee2cc1f8.rocketcdn.me/wp-content/uploads/2020/04/iis-10-new-website-02.png" alt="Web">
+<br>
+<img src="https://ee2cc1f8.rocketcdn.me/wp-content/uploads/2020/04/iis-10-new-website-03.png" alt="Web">
+<br>
+<img src="https://ee2cc1f8.rocketcdn.me/wp-content/uploads/2020/04/iis-10-new-website-04.png" alt="Web">
+<br>
+<img src="https://ee2cc1f8.rocketcdn.me/wp-content/uploads/2020/04/iis-10-new-website-05.png" alt="Web">
+<br>
+<img src="https://ee2cc1f8.rocketcdn.me/wp-content/uploads/2020/04/iis-10-new-website-06.png" alt="Web">
+<br>
+<img src="https://ee2cc1f8.rocketcdn.me/wp-content/uploads/2020/04/iis-10-new-website-07.png" alt="Web">
+<br>
+
 ## ---------- Enrutamiento ---------- #
