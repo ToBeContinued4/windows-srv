@@ -153,5 +153,7 @@ Aquí habría que agregar ``IIS``
 <br>
 <img src="https://ee2cc1f8.rocketcdn.me/wp-content/uploads/2020/04/iis-10-new-website-07.png" alt="Web">
 <br>
+<img src="https://ee2cc1f8.rocketcdn.me/wp-content/uploads/2020/04/iis-10-new-website-08.png" alt="Web">
+<br>
 
 ## ---------- Enrutamiento ---------- #
