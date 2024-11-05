@@ -158,4 +158,35 @@ Aquí habría que agregar ``IIS``
 
 ## ---------- Enrutamiento ---------- #
 
+- Agregar roles
+
+<img src="https://witcherit.com/wp-content/uploads/2020/07/03-2-1024x748.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/04-2.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/05-2.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/06-2.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/07-2.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/08-2.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/09-2.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/10-2.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/11-2.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/12-1.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/13-1.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/14-1.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/15-1.png" alt="enrutamiento">
+<br>
+<img src="https://witcherit.com/wp-content/uploads/2020/07/16-1.png" alt="enrutamiento">
+<br>
+
 # ///// FIN ///// #
